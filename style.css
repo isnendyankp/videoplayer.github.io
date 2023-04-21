@@ -176,7 +176,10 @@ video {
   margin-right: 15px;
 }
 
-
+select,
+option {
+  cursor: pointer;
+}
 
 select {
 
@@ -188,7 +191,9 @@ select {
   border-radius: 5px;
 }
 
-
+select:focus {
+  outline: none;
+}
 
 select > option {
   background: rgba(0, 0, 0, 0.9);
