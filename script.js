@@ -48,7 +48,8 @@ function updateProgress() {
 
 // Click to seek within the video
 function setProgress(e) {
-    console.log(e);
+    const newTime = e.offsetX / progressRange.offsetWidth;
+    console.log(newTime);
 }
 
 // Volume Controls --------------------------- //
