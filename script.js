@@ -35,6 +35,7 @@ video.addEventListener('ended', showPlayIcon);
 function displayTime(time) {
     const minutes = Math.floor(time / 60);
     let seconds = Math.floor(time % 60);
+    seconds = seconds > 9 ? seconds : `0${seconds}`;
     console.log(minutes, seconds);
 }
 
