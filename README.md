@@ -2,7 +2,7 @@
 
 1.mixkit(main free src video): https://mixkit.co/
 
-2.pixabay(other src video): https://pixabay.com/videos/
+2.pixabay(other free src video): https://pixabay.com/videos/
 
 3.FontAwesome Icons: https://fontawesome.com/icons?d=gallery&q=close&m=free
 
@@ -12,7 +12,7 @@
 
 7.HTML Audio and Video DOM Reference: https://www.w3schools.com/tags/ref_av_dom.asp
 
-8.HTMLElement: change event: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event
+8.HTML Element: change event: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event
 
 9.Learn how to make a fullscreen window with JavaScript.: https://www.w3schools.com/howto/howto_js_fullscreen.asp
 
